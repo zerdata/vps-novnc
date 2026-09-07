@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://appear-date-quantities-correspondence.trycloudflare.com/vnc.html
+URL       : https://slides-new-transmission-landing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 09:51:01
+Created   : 2026-09-07 15:24:04
 =======================================================
