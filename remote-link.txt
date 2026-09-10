@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://asin-opt-const-view.trycloudflare.com/vnc.html
+URL       : https://oklahoma-split-ideal-transmission.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 22:06:07
+Created   : 2026-09-10 01:49:37
 =======================================================
