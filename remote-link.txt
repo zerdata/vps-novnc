@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://crops-chance-representations-sig.trycloudflare.com/vnc.html
+URL       : https://policies-modifications-old-explanation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 09:18:26
+Created   : 2026-09-18 14:00:14
 =======================================================
