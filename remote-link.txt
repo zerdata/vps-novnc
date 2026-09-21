@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inventory-television-prescribed-allied.trycloudflare.com/vnc.html
+URL       : https://minnesota-renew-labels-static.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 02:03:12
+Created   : 2026-09-21 10:18:33
 =======================================================
