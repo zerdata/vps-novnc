@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://evaluations-regional-oem-skip.trycloudflare.com/vnc.html
+URL       : https://connect-enables-beauty-belong.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 10:08:42
+Created   : 2026-10-03 18:25:36
 =======================================================
