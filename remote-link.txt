@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://entertaining-valves-regard-administration.trycloudflare.com/vnc.html
+URL       : https://announcement-gazette-misc-began.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 03:11:09
+Created   : 2026-10-04 10:49:50
 =======================================================
