@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://department-defensive-methods-date.trycloudflare.com/vnc.html
+URL       : https://infants-apps-mails-blond.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 19:03:01
+Created   : 2026-10-10 23:03:37
 =======================================================
