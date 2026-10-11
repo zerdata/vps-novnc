@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gives-patients-manitoba-working.trycloudflare.com/vnc.html
+URL       : https://recall-freight-sale-energy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 19:17:33
+Created   : 2026-10-11 23:19:04
 =======================================================
