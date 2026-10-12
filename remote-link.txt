@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recall-freight-sale-energy.trycloudflare.com/vnc.html
+URL       : https://words-assuming-survival-aid.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 23:19:04
+Created   : 2026-10-12 02:59:17
 =======================================================
