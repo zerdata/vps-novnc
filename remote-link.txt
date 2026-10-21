@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://instructor-separation-weighted-repairs.trycloudflare.com/vnc.html
+URL       : https://until-express-structures-separate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 14:46:08
+Created   : 2026-10-21 19:04:28
 =======================================================
