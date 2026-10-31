@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drove-juvenile-benjamin-airports.trycloudflare.com/vnc.html
+URL       : https://fri-opponent-progress-rpg.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 23:22:30
+Created   : 2026-10-31 03:00:45
 =======================================================
