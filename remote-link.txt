@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://camel-enclosure-nat-drop.trycloudflare.com/vnc.html
+URL       : https://shipped-firefox-permanent-vehicles.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 22:56:03
+Created   : 2026-11-01 02:55:19
 =======================================================
