@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://participated-richmond-broad-benjamin.trycloudflare.com/vnc.html
+URL       : https://theta-laundry-reno-scripts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 20:43:26
+Created   : 2026-11-04 03:40:13
 =======================================================
