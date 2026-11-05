@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://verbal-adapter-piano-stuart.trycloudflare.com/vnc.html
+URL       : https://island-candidate-consolidated-updated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:00:36
+Created   : 2026-11-05 03:59:25
 =======================================================
