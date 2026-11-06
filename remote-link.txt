@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kenneth-horizontal-flags-athens.trycloudflare.com/vnc.html
+URL       : https://vincent-styles-wrote-thing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 03:57:16
+Created   : 2026-11-06 12:35:23
 =======================================================
