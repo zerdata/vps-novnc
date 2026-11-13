@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hampton-buck-foundations-flame.trycloudflare.com/vnc.html
+URL       : https://watt-lounge-penalties-pdf.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-13 12:44:01
+Created   : 2026-11-13 21:05:24
 =======================================================
