@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://psychiatry-drunk-hip-whenever.trycloudflare.com/vnc.html
+URL       : https://tracked-sys-automated-difference.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-15 03:36:33
+Created   : 2026-11-15 12:23:00
 =======================================================
