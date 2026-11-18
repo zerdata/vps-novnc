@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fee-seating-effect-volume.trycloudflare.com/vnc.html
+URL       : https://dedicated-oct-detailed-cincinnati.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 01:57:22
+Created   : 2026-11-18 13:34:02
 =======================================================
