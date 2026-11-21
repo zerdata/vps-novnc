@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://logging-architectural-harley-adaptor.trycloudflare.com/vnc.html
+URL       : https://plastic-weed-sample-apollo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-21 04:34:08
+Created   : 2026-11-21 13:08:57
 =======================================================
