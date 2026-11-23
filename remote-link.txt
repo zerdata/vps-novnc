@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://car-elder-approval-logic.trycloudflare.com/vnc.html
+URL       : https://human-heading-mainland-bug.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-23 04:25:50
+Created   : 2026-11-23 15:31:21
 =======================================================
