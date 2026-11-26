@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rover-synopsis-invalid-validity.trycloudflare.com/vnc.html
+URL       : https://affair-smith-magnetic-scores.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 14:35:53
+Created   : 2026-11-26 23:25:45
 =======================================================
