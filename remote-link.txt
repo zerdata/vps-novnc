@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cet-key-causing-coding.trycloudflare.com/vnc.html
+URL       : https://scientist-relief-integrate-briefly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 19:15:34
+Created   : 2026-11-28 02:20:53
 =======================================================
